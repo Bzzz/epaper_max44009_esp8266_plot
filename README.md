@@ -3,7 +3,7 @@ Demo plot code for the Waveshare 4.2" 400x300 ePaper module paired with the Wemo
 
 
 This requires the following additions to your Arduino installation:
-* ESP8266 support (if not already shipped with your Arduino board packages, use the library manager to download something appropriate, e.g. Blynk, generic ESP libraries)
+* ESP8266 support (if not already shipped with your Arduino board packages, use the library manager to download something appropriate, e.g. Blynk, generic ESP libraries from https://wiki.wemos.cc/tutorials:get_started:get_started_in_arduino or the like)
 * the Adafruit GFX library (library manager, tested with v1.2.3)
 * Waveshare ePaper library from https://github.com/ZinggJM/GxEPD 
 * MAX44009 library from https://github.com/RobTillaart/Arduino (thanks for enhancing your code to support ESP8266 devices)
